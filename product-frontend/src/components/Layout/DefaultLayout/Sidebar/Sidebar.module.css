@@ -1,0 +1,21 @@
+.wrapper{
+    width: 25%;
+    max-width: 250px;
+    background-color: #ffffff;
+}
+.price-filter{
+    display: flex;
+    flex-direction: column;
+}
+.price-check{
+    margin: 8px 0;
+}
+.quantity-input{
+    font-size: 1.6rem;
+    width: 90%;
+}
+.apply-btn{
+    margin-top: 12px;
+    border-radius:12px;
+    height: 30px;
+}

@@ -1,0 +1,29 @@
+.login-wrapper{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(235, 231, 224);
+}
+
+.login-inner{
+    margin:auto;
+    padding-bottom: 20%;
+
+    
+}
+.login-inner > div > div {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 10px 20px 10px;
+}
+
+.login-username, .login-pwd, .login-btn{
+    height: 37px;
+    margin-bottom: 20px
+
+}
+.hidden-error{
+    display: none;
+}
+.red-error{
+    color: red;
+}

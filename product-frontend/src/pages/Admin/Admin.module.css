@@ -1,0 +1,35 @@
+.admin-table-container{
+    display: flex;
+    flex-direction: column;
+}
+.admin-add-btn{
+    width: 12%;
+    height: 36px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    margin-top: 12px;
+}
+.admin-table{
+    width: 100%;
+    margin: 12px auto auto auto;
+}
+
+.admin-img{
+    max-height: 70px;
+}
+.admin-desc{
+    max-height: 50px;
+    max-width: 620px;
+    overflow: hidden;
+}
+.quan-col{
+    width: 8%;
+    text-align: center;
+}
+.upd-col{
+    width: 8%;
+    text-align: center;
+}
+.del-col{
+    width: 5%;
+}

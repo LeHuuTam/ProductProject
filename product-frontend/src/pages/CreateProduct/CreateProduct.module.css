@@ -1,0 +1,37 @@
+.admin-update-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.admin-title{
+    text-align: center;
+}
+.admin-update-form{       
+    width: 60%;       
+    height: 84vh;    
+    background-color: white;
+    padding: 30px;
+}
+.admin-input{
+    min-height: 36px;
+    font-size: 1.4rem;
+}
+.admin-input-area{
+    font-size: 1.4rem;
+}
+.admin-temp-img{
+    height: 100px;
+    width: 100px;
+    margin-top: 16px;
+}
+.admin-update-btn-box{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.admin-update-btn{
+    height: 42px;
+    width: 200px;
+    margin: auto;
+    font-size: 1.6rem;
+}

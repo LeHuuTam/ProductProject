@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\ProductProject\\ProductManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB7D2F8-B02C-4B13-BAC1-5C4B9C28CFBD}|ProductManagement\\ProductManagement.csproj|e:\\project\\productproject\\productmanagement\\productmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB7D2F8-B02C-4B13-BAC1-5C4B9C28CFBD}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Project\\ProductProject\\ProductManagement\\ProductManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Project\\ProductProject\\ProductManagement\\ProductManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductManagement\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:15:48.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
